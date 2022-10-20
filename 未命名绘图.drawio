@@ -1,40 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T02:04:47.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="hC4O2hbWLQTmyWp-85Ld" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-20T02:19:33.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ClLVxF5xOgrm5iHmjF-0" version="20.4.2" type="github">
   <diagram id="gunhI00dXkGyVERq6LJF" name="第 1 页">
     <mxGraphModel dx="1209" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6qg9BJQZbFwgMBXtsRcn-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="6qg9BJQZbFwgMBXtsRcn-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.02;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="6qg9BJQZbFwgMBXtsRcn-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="400" as="sourcePoint" />
-            <mxPoint x="720" y="400" as="targetPoint" />
+            <mxPoint x="180" y="405" as="sourcePoint" />
+            <mxPoint x="750" y="404.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6qg9BJQZbFwgMBXtsRcn-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="6qg9BJQZbFwgMBXtsRcn-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="540" as="sourcePoint" />
+            <mxPoint x="500" y="620" as="sourcePoint" />
             <mxPoint x="500" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6qg9BJQZbFwgMBXtsRcn-4" value="重要" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6qg9BJQZbFwgMBXtsRcn-4" value="重要" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="120" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6qg9BJQZbFwgMBXtsRcn-5" value="紧急" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="390" width="50" height="30" as="geometry" />
+        <mxCell id="6qg9BJQZbFwgMBXtsRcn-5" value="紧急" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="760" y="390" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6qg9BJQZbFwgMBXtsRcn-6" value="立即做&lt;br&gt;(第一象限中80%的任务都是来自&lt;br&gt;于第二象限中没有被很好处理的事务)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="220" width="220" height="60" as="geometry" />
+        <mxCell id="6qg9BJQZbFwgMBXtsRcn-6" value="立即做&lt;br&gt;(&lt;font color=&quot;#ff0000&quot;&gt;第一象限没处理好的事情，&lt;br&gt;一些意外的机会&lt;/font&gt;)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="535" y="220" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6qg9BJQZbFwgMBXtsRcn-7" value="有计划的做" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="220" width="80" height="30" as="geometry" />
+        <mxCell id="6qg9BJQZbFwgMBXtsRcn-7" value="有计划的做&lt;br&gt;可以产生效益的事情&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;(提升自己、赚取金钱、&lt;br&gt;有助于升职加薪的事、&lt;br&gt;如何将自己的事情分解成别人的事情)&lt;/font&gt;&lt;br&gt;* 处理不好是第一象限&lt;br&gt;* 重复性是第三象限" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="204" y="195" width="220" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="6qg9BJQZbFwgMBXtsRcn-8" value="交给别人去做&lt;br&gt;用“猴子法则”走出第三象限" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="420" width="160" height="40" as="geometry" />
+        <mxCell id="6qg9BJQZbFwgMBXtsRcn-8" value="交给别人去做&lt;br&gt;用“猴子法则”走出第三象限" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="430" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6qg9BJQZbFwgMBXtsRcn-10" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6qg9BJQZbFwgMBXtsRcn-10" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="404" y="445" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6qg9BJQZbFwgMBXtsRcn-11" value="尽量别去做&lt;br&gt;比如看无聊的电视节目、刷手机等。&lt;br&gt;这个象限的事情用来当做前三个象限的调剂。" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6qg9BJQZbFwgMBXtsRcn-11" value="尽量别去做&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;比如看无聊的电视节目、刷手机等。&lt;br&gt;这个象限的事情用来当做前三个象限的调剂。&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="430" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
